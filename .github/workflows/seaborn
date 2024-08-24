@@ -1,1 +1,3 @@
 import seaborn as sns sns.load_datasets("penguins.csv")
+sns.lineplot(x="bill_length",y="flipper_length",hue="sex",)
+heat map,histrogram
