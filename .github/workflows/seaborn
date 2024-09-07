@@ -1,3 +1,6 @@
 import seaborn as sns sns.load_datasets("penguins.csv")
 sns.lineplot(x="bill_length",y="flipper_length",hue="sex",)
-heat map,histrogram
+heat map,hostel gram
+from boken import figure
+output_file,show
+aniruddh=output_files("line plot.pdf")
